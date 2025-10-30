@@ -30,7 +30,7 @@ I write to share knowledge, inspire curiosity, and build digital communities.
 
 ## 🌐 Connect with Me
 - **LinkedIn:** [[linkedin.com/in/simantamondal](#)](https://www.linkedin.com/in/simanta-mondal-7214a4333/)
-- **GitHub:** [github.com/simantamondal](#)
+- **GitHub:** [[github.com/simantamondal](#)](https://github.com/simanta2330)
 - **Email:** cyber.simanta53@gmail.com 
 
 ---
