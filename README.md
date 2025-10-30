@@ -19,7 +19,7 @@ I write to share knowledge, inspire curiosity, and build digital communities.
 
 ---
 
-## 📰 Featured Articles
+## 📰 My Articles
 | Title | Category | Description |
 |--------|-----------|-------------|
 | [Network Basics for Beginners][(articles/technology/network-basics.md)](https://forum.techvrs.com/%f0%9f%92%bb-%e0%a7%a7%e0%a7%a6%e0%a6%9f%e0%a6%bf-%e0%a6%b8%e0%a6%be%e0%a6%a7%e0%a6%be%e0%a6%b0%e0%a6%a3-%e0%a6%85%e0%a6%a8%e0%a6%b2%e0%a6%be%e0%a6%87%e0%a6%a8-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%a4/) | Networking | Simple explanation of network fundamentals for new learners. |
