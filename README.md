@@ -6,8 +6,7 @@ Here I document my writing journey as an editor and content creator, focusing ma
 ---
 
 ## 🧠 About Me
-Hi, I’m **Simanta Mondal** — a content editor and cybersecurity enthusiast passionate about simplifying complex topics for readers.  
-I write to share knowledge, inspire curiosity, and build digital communities.
+Hi, I’m Simanta Mondal — a content editor and cybersecurity enthusiast passionate about simplifying complex topics for readers. I’m currently pursuing a BSc in Computer Science and Engineering with a major in Cybersecurity. I write to share knowledge, inspire curiosity, and build digital communities.
 
 ---
 
